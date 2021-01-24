@@ -1,0 +1,29 @@
+.font{
+ color:#087f5b;
+ font-family: 'Noto Sans TC', sans-serif;
+ font-weight: bold;
+ font-size: 20px;
+
+
+
+}
+
+
+#main-banner{
+    border-radius: 25px;
+    border-top: 5px solid #087f5b;
+    
+
+}
+
+#title{
+  font-size:50px ;
+
+
+
+}
+
+#cuadro{
+   /*  border: solid 2px red; */
+    padding: 25px;
+}
