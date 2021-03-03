@@ -2,7 +2,7 @@
   "name": "galery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://galeryclassic.ga/",
+  "homepage": "https://www.softbanana.ml/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -17,7 +17,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo www.softbanana.ml > ./build/CNAME",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
