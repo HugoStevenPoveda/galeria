@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/galeria/static/css/main.7edf1260.chunk.css",
+    "main.js": "/galeria/static/js/main.ab8ebfff.chunk.js",
+    "main.js.map": "/galeria/static/js/main.ab8ebfff.chunk.js.map",
+    "runtime-main.js": "/galeria/static/js/runtime-main.46a6b4c3.js",
+    "runtime-main.js.map": "/galeria/static/js/runtime-main.46a6b4c3.js.map",
+    "static/js/2.97e2ac6f.chunk.js": "/galeria/static/js/2.97e2ac6f.chunk.js",
+    "static/js/2.97e2ac6f.chunk.js.map": "/galeria/static/js/2.97e2ac6f.chunk.js.map",
+    "index.html": "/galeria/index.html",
+    "static/css/main.7edf1260.chunk.css.map": "/galeria/static/css/main.7edf1260.chunk.css.map",
+    "static/js/2.97e2ac6f.chunk.js.LICENSE.txt": "/galeria/static/js/2.97e2ac6f.chunk.js.LICENSE.txt",
+    "static/media/Francisco_de_Goya.756493a2.jpg": "/galeria/static/media/Francisco_de_Goya.756493a2.jpg",
+    "static/media/PinturaDALI.314143ef.jpg": "/galeria/static/media/PinturaDALI.314143ef.jpg",
+    "static/media/Sandro_Botticelli.b6c2dcf1.jpg": "/galeria/static/media/Sandro_Botticelli.b6c2dcf1.jpg",
+    "static/media/barner.46bd88db.jpg": "/galeria/static/media/barner.46bd88db.jpg",
+    "static/media/picasso.3a50876e.jpg": "/galeria/static/media/picasso.3a50876e.jpg",
+    "static/media/pinturaBOTTICELLI.ac90d445.jpg": "/galeria/static/media/pinturaBOTTICELLI.ac90d445.jpg",
+    "static/media/pinturaGOYA.12df64be.jpg": "/galeria/static/media/pinturaGOYA.12df64be.jpg",
+    "static/media/pinturaPICASSO.269e8f9d.jpg": "/galeria/static/media/pinturaPICASSO.269e8f9d.jpg",
+    "static/media/pinturaVelzquez.35c89d47.jpg": "/galeria/static/media/pinturaVelzquez.35c89d47.jpg",
+    "static/media/velazquez.50af08c8.jpg": "/galeria/static/media/velazquez.50af08c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a6b4c3.js",
+    "static/js/2.97e2ac6f.chunk.js",
+    "static/css/main.7edf1260.chunk.css",
+    "static/js/main.ab8ebfff.chunk.js"
+  ]
+}
